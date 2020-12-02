@@ -1,0 +1,58 @@
+.video {
+    width: 560px;
+    height: 315px;
+}
+
+.Unbroken {
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: 360px;
+
+}
+
+li {
+    font-size: 20px;
+	font-style:italic;
+    color: white;
+    font-family: 'Playfair Display', serif;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+}
+
+h1 {
+    text-align: center;
+    background-color: #cc0000;
+    color: white;
+   
+}
+
+.passage {
+
+    color: white;
+    font-size: 15px;
+    font-family: 'PT Serif', serif;
+}
+
+.Mario {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+}
+
+body {
+    background-color: #3366ff;
+
+}
+
+a {
+    color: #ff3300;
+}
